@@ -1,0 +1,22 @@
+{
+  "name": "DHImageBtnKit",
+  "version": "0.1.0",
+  "summary": "A short description of DHImageBtnKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zdh362428@163.com/DHImageBtnKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zdh362428@163.com": "zdh362428@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zdh362428@163.com/DHImageBtnKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DHImageBtnKit/Classes/**/*"
+}

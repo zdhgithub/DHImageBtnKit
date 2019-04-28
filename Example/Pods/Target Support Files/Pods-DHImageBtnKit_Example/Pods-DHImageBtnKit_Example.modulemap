@@ -1,0 +1,6 @@
+framework module Pods_DHImageBtnKit_Example {
+  umbrella header "Pods-DHImageBtnKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

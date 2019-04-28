@@ -1,0 +1,6 @@
+framework module DHImageBtnKit {
+  umbrella header "DHImageBtnKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

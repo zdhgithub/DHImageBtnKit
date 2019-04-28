@@ -1,0 +1,16 @@
+PODS:
+  - DHImageBtnKit (0.1.0)
+
+DEPENDENCIES:
+  - DHImageBtnKit (from `../`)
+
+EXTERNAL SOURCES:
+  DHImageBtnKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DHImageBtnKit: 8e421eaea09256400f858fce42145f3a395075d4
+
+PODFILE CHECKSUM: 3017bc48cc0e851491fdd8e1b44e96156911bf21
+
+COCOAPODS: 1.6.1
